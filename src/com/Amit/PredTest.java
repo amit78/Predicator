@@ -7,12 +7,20 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
+<<<<<<< HEAD
  * Created by Amit on 18/11/13 for trial ad error method
+=======
+ * Created by Amit on 18/11/13.
+>>>>>>> cd6f682... Initial commit
  */
 public class PredTest {
     static Predicate pred=new Predicate(){
         public boolean predicate(Object o) {
+<<<<<<< HEAD
             return o.toString().startsWith("Hi there how are you");
+=======
+            return o.toString().startsWith("Hi");
+>>>>>>> cd6f682... Initial commit
         }
     };
 

@@ -48,7 +48,11 @@ public class PredicateIterator implements Iterator {
         }
         doneNext=false;
         return next;
+
     }//got it
+
+    }
+
 
     @Override
     public void remove() {
