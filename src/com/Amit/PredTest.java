@@ -12,7 +12,7 @@ import java.util.List;
 public class PredTest {
     static Predicate pred=new Predicate(){
         public boolean predicate(Object o) {
-            return o.toString().startsWith("Hi");
+            return o.toString().startsWith("Hi there how are you");
         }
     };
 
