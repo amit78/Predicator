@@ -50,6 +50,7 @@ public class PredicateIterator implements Iterator {
         return next;
 
     }//got it
+    //kojasdkfjdkf;ljkasdlkfjdskjfd
 
     }
 
