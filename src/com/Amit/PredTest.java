@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Created by Amit on 18/11/13.
+ * Created by Amit on 18/11/13 for trial ad error method
  */
 public class PredTest {
     static Predicate pred=new Predicate(){
